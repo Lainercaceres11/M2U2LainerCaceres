@@ -15,7 +15,6 @@ Numero mayor y menor
 ![image](https://user-images.githubusercontent.com/81586887/175609711-07a456a4-3193-442a-b9ca-df0e61e8e45a.png)
 ![image](https://user-images.githubusercontent.com/81586887/175610023-5d5c76df-b638-4e91-b2a8-cc3d38f2be54.png)
 
-
 Diagrama de flujo
 ![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/81586887/175610138-284ae6d1-f078-4cdb-9dc2-d61719592ce4.png)
 
